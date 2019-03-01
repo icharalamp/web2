@@ -12,27 +12,37 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Landscape hydrology",
-    "Remote sensing",
-    "Groundwater management",
-    "Sustainable agriculture"
+    "Bioclimatology",
+    "Agrometeorology",
+    "R language",
+    "Spatial analysis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD, Environmental Geosciences"
-  institution = "Michigan State University"
-  year = 2018
-
-[[education.courses]]
-  course = "MS, Biology"
-  institution = "University of Notre Dame"
+  course = "PhD, Bioclimatology"
+  institution = "Agricultural University of Athens, Greece"
   year = 2009
+  
+[[education.courses]]
+  course = "MSc, Behaviour and Environment"
+  institution = "Democritus University of Thrace, Greece"
+  year = 2015
+  
+[[education.courses]]
+  course = "MSc, Environmental Physics (meteorology)"
+  institution = "University of Athens, Greece"
+  year = 2012
 
 [[education.courses]]
-  course = "BS, Ecology and Evolutionary Biology"
-  institution = "Saint Louis University"
+  course = "MSc, Geological and Atmospheric Environment for infrastructures planning"
+  institution = "Agricultural University of Athens, Greece"
   year = 2006
+
+[[education.courses]]
+  course = "BS, Natural Resources Development and Argicultural Engineering"
+  institution = "Agricultural University of Athens, Greece"
+  year = 2002
  
 +++
 
