@@ -1,5 +1,5 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
-title = "Coupled Human-Water Systems"
+title = "j"
 copyright = "&copy; 2017 Jillian Deines"
 theme = "hugo-academic"
 enableEmoji = true
