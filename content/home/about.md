@@ -48,4 +48,4 @@ weight = 1
 
 ## Understanding the Linkages Between Atmosphere, Vegetation and Human 
 
-My research integrates the biophysical, socioeconomic, and political components of human water use to inform sustainable water management. I use satellite remote sensing and economic data to drive physical models of human-water systems, including agricultural and urban water uses. These systems models are then used to understand human water use, governance, and the associated impacts on water resources. 
+My research integrates the climatic/ meteorological and spatial data, derived by  surface eqipment and remote sensing systems. I use atmospheric and environmental data to examine and model human-vegertation interactions in the atmospheric environment, in agricultural and urban areas.
