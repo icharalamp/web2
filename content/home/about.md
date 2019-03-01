@@ -46,6 +46,6 @@ weight = 1
  
 +++
 
-## Understanding Linkages Between Human Behavior and Water Resources 
+## Understanding the Linkages Between Atmosphere, Vegetation and Human 
 
 My research integrates the biophysical, socioeconomic, and political components of human water use to inform sustainable water management. I use satellite remote sensing and economic data to drive physical models of human-water systems, including agricultural and urban water uses. These systems models are then used to understand human water use, governance, and the associated impacts on water resources. 
