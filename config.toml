@@ -46,7 +46,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Agricultural University of Athens", url = "https://www2.aua.gr//en" } ]
   
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "icha_pict.jpg"
+  avatar = "icha_pict2.jpg"
   email = "icharalamp@aua.gr"
   address = ""
   office_hours = ""
