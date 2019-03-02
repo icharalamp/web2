@@ -17,7 +17,7 @@ weight = 60
 I have been an instructor of the following:
 
 - Google Earth Engine Tutorial: Geohackweek 2017, University of Washington. [Tutorial available here](https://geohackweek.github.io/GoogleEarthEngine/).
-- Using R to Model, Manipulate, and Manage Spatial Data: Student Workshop, International Association of Landscape Ecology World Congress, 2015
-- TA: Ecology, University of Notre Dame
-- TA: General Biology, University of Notre Dame
-- TA: General Biology, Saint Louis University
+- AUA-R. Workshop for students, researchers and academif staff
+- Agrometeorology, .....
+- Agricultural Meteorology, Agricultural University of Athens
+- Bioclimatology, Agricultural University of Athens
