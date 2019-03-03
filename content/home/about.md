@@ -48,4 +48,4 @@ weight = 1
 
 ## Understanding the Linkages Between Atmosphere, Vegetation and Human 
 
-I use environmental data to examine and model human-vegertation interactions with the atmospheric environment, in agricultural and urban areas. I am an R enthusiast and I love data visualisation. The best part of my carrier is teaching and the reason I am a scholar is my insatiable curiosity.
+I use environmental data to examine and model human-vegetation interactions with the atmospheric environment, in agricultural and urban areas. I am an R enthusiast and I love data visualisation. The best part of my carrier is teaching and the reason I am a scholar is my insatiable curiosity.
