@@ -20,6 +20,6 @@ url = "https://www.mdpi.com/2413-8851/1/1/8"
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/urban_science_2017.jpg"
-caption = "High resolution DEM"
+caption = "Colored correlation coefficients between searching frequency and PET index"
 
 +++
