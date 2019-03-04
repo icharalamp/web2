@@ -74,7 +74,7 @@ defaultContentLanguageInSubdir = false
   date_format = "Jan 2, 2006"
   
   # Show estimated reading time for posts?
-  reading_time = false
+  reading_time = true
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = false
