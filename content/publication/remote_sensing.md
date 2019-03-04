@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "*International Journal of Remote Sensing*"
-publication_short = "In *IJRS*"
+publication_short = "In *International Journal of Remote Sensing*"
 selected = true
 title = "Assessment of continuous sky view factor based on ultra-high resolution natural colour images acquired by remotely piloted airborne systems for applications in an urban area of Athens"
 url_pdf = "https://www.tandfonline.com/doi/abs/10.1080/01431161.2017.1346845?needAccess=true#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8wMTQzMTE2MS4yMDE3LjEzNDY4NDU/bmVlZEFjY2Vzcz10cnVlQEBAMA=="
