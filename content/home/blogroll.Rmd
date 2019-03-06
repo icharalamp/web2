@@ -1,0 +1,19 @@
+---
+title: "Blogroll"
+author: "ICh"
+layout: page
+---
+
+> Some of them are really inspiring and some of them have great content.
+>
+> -- <cite> Realy usefull </cite>
+
+- [R Weekly](https://rweekly.org/)
+- [Simply Statistics](https://simplystatistics.org/)
+- [From the bottom of the heap](http://www.fromthebottomoftheheap.net/)
+- [Michael Clark:Statistics, R, Data, Science](https://m-clark.github.io/)
+- [R-Bloggers](http://www.r-bloggers.com)
+- [rOpenSci](https://ropensci.org/blog/)
+- [Software Carpentry](http://software-carpentry.org/blog/index.html)
+
+
