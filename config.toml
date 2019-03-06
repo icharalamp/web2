@@ -214,11 +214,16 @@ defaultContentLanguageInSubdir = false
   name = "Posts"
   url = "#posts"
   weight = 5
+  
+[[menu.main]]
+  name = "Blogroll"
+  url = "#blogroll"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
