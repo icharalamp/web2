@@ -16,7 +16,6 @@ weight = 60
 
 I have been an instructor of the following:
 
-- Google Earth Engine Tutorial: Geohackweek 2017, University of Washington. [Tutorial available here](https://geohackweek.github.io/GoogleEarthEngine/).
 - _Bioclimatic design of buildings and open space_. Hellenic Open University. Enviromental Design of Cities and Buildings MSc programm
 - _AUA-R. R language Workshop for students, researchers and academic staff_. Agricultural University of Athens
 - _Agrometeorology_. Technological intitute of Kalamata, Greece

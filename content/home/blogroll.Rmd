@@ -6,14 +6,18 @@ layout: page
 
 > Some of them are really inspiring and some of them have great content.
 >
-> -- <cite> Realy usefull </cite>
+> -- <cite> Really usefull </cite>
 
 - [R Weekly](https://rweekly.org/)
+- [Spatial data science](https://www.rspatial.org/#)
 - [Simply Statistics](https://simplystatistics.org/)
 - [From the bottom of the heap](http://www.fromthebottomoftheheap.net/)
 - [Michael Clark:Statistics, R, Data, Science](https://m-clark.github.io/)
 - [R-Bloggers](http://www.r-bloggers.com)
 - [rOpenSci](https://ropensci.org/blog/)
 - [Software Carpentry](http://software-carpentry.org/blog/index.html)
+- [Henrik Bengtsson blog](https://www.jottr.org/)
+- [From the bottom of the heap. The musings of a geographer](https://www.fromthebottomoftheheap.net/)
+
 
 
