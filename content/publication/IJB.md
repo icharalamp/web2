@@ -19,7 +19,7 @@ url = "https://link.springer.com/article/10.1007%2Fs00484-014-0934-1"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/violin.jpeg"
+image = "headers/violin.jpg"
 caption = "High resolution DEM"
 
 +++
