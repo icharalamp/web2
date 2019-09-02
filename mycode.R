@@ -12,6 +12,9 @@ serve_site()
 git add -A
 
 
-git commit -m
+git commit -m message
+
+
+git push 
 
 rs_nastos.jpeg
