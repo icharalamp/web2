@@ -9,4 +9,9 @@ serve_site()
 
 #git commands
 
+git add -A
+
+
+git commit -m
+
 rs_nastos.jpeg

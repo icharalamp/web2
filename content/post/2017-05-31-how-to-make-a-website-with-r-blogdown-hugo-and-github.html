@@ -49,7 +49,7 @@ install_hugo()</code></pre>
 <div id="back-to-rstudio" class="section level3">
 <h3>Back to RStudio</h3>
 <p>Next we need to create the site in RStudio using <code>blogdown</code> and Hugo, and then link this with the two repositories. In my normal research life, I tend to use R Projects with the built-in git capabilities, but for some reason, that gave me a lot of problems in this case. So I created an R Project for the Hugo source files, but then manually added Git to the folder and manually linked it with Github via Git Bash (rather than just intializaing the R Project straight from the Github repository, which is what I usually do. That kept crashing for me today).</p>
-<p>So, either create an R Project or just use a dedicated working directory for your website source files. If not using an R Project, set your working directory using <code>setwd(&quot;path/to/your/folder&quot;)</code>. Note that commands such as <code>new_site()</code> and <code>serve_site()</code> will load your website in the RStudio viewer, and you will need to hit the stop sign to exit viewing mode and go back to coding.</p>
+<p>So, either create an R Project or just use a dedicated working directory for your website source files. If not using an R Project, set your working directory using <code>setwd("path/to/your/folder")</code>. Note that commands such as <code>new_site()</code> and <code>serve_site()</code> will load your website in the RStudio viewer, and you will need to hit the stop sign to exit viewing mode and go back to coding.</p>
 <p>This is also where you will install your theme, <a href="http://themes.gohugo.io/">found here</a>. Being an academic type, I chose <a href="http://themes.gohugo.io/academic/">Academic</a>.</p>
 <pre class="r"><code># create your site
 library(blogdown)
@@ -83,7 +83,7 @@ git submodule add git@github.com:username/username.github.io.git public</code></
 </div>
 <div id="back-to-rstudio-1" class="section level3">
 <h3>Back to RStudio</h3>
-<p>Not really sure if this is necessary…but make a few changes to site, such as altering the config file or trying <code>new_post(&quot;Hello World&quot;)</code>, then “compile” the site again.</p>
+<p>Not really sure if this is necessary…but make a few changes to site, such as altering the config file or trying <code>new_post("Hello World")</code>, then “compile” the site again.</p>
 <pre class="r"><code># make a test post if you&#39;re into that
 new_post(&#39;Hello World&#39;)
 
@@ -114,7 +114,7 @@ git push origin master</code></pre>
 <h2>Further tips on creating content</h2>
 <div id="new-page-types" class="section level3">
 <h3>New page types</h3>
-<p>Blogdown contains wrapper functions to run Huge commands. So instead of <code>hugo new post/my-article-name.md</code>, you enter wrapper functions directly into the console, such as <code>new_post(title=&quot;My article name&quot;)</code>, plus additional arguments as needed (see code examples below.)</p>
+<p>Blogdown contains wrapper functions to run Huge commands. So instead of <code>hugo new post/my-article-name.md</code>, you enter wrapper functions directly into the console, such as <code>new_post(title="My article name")</code>, plus additional arguments as needed (see code examples below.)</p>
 <p>I’m learning this as we speak with this blog post, but the rmd = TRUE argument took me a moment.</p>
 <pre class="r"><code># to make a new blog post, using Rmd instead of md:
 new_post(title=&#39;How to make a website with R blogdown, Hugo, and GitHub&#39;, 
