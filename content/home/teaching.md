@@ -17,9 +17,10 @@ weight = 60
 I have been an instructor of the following:
 
 - _Bioclimatic design of buildings and open space_. Hellenic Open University. Enviromental Design of Cities and Buildings MSc programm
-- _AUA-R. R language Workshop for students, researchers and academic staff_. Agricultural University of Athens
+- _Management, analysis and visualisation of environmental data with R-Language_. Agricultural University of Athens, Greece
+- _AUA-R. R language Workshop for students, researchers and academic staff_. Agricultural University of Athens, Greece
 - _Agrometeorology_. Technological intitute of Kalamata, Greece
 - _Agricultural Meteorology_. Agricultural University of Athens
-- _Bioclimatology_. Agricultural University of Athens
-- _Bioclimatology and Bioclimatic Design of Urban Open Spaces_. Agricultural University of Athens. Landscepe design MSc programm
+- _Bioclimatology_. Agricultural University of Athens, Greece
+- _Bioclimatology and Bioclimatic Design of Urban Open Spaces_. Agricultural University of Athens, Greece. Landscepe design MSc programm
 - _Geospatial analysis on decision making_. National School of Public Administration 

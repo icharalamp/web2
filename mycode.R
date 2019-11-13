@@ -17,4 +17,3 @@ git commit -m message
 
 git push 
 
-rs_nastos.jpeg
