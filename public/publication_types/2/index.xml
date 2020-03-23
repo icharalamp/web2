@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Ioannis Charalampopoulos</copyright>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investigating the Behaviour of Human Thermal Indices under Divergent Atmospheric Conditions: A Sensitivity Analysis Approach</title>
+      <link>/publication/atmosphere_ich_2019/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/atmosphere_ich_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A comparative sensitivity analysis of human thermal comfort indices with generalized additive models</title>
