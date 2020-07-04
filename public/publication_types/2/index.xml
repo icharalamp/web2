@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Ioannis Charalampopoulos</copyright>
-    <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The R Language as a Tool for Biometeorological Research</title>
+      <link>/publication/atmosphere_ich_2020_r_biom/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/atmosphere_ich_2020_r_biom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investigating the Behaviour of Human Thermal Indices under Divergent Atmospheric Conditions: A Sensitivity Analysis Approach</title>
