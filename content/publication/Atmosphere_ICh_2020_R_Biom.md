@@ -1,5 +1,5 @@
 +++
-abstract = "R is an open-source programming language which gained a central place in the geosciences over the last two decades as the primary tool for research. Now, biometeorological research is driven by the diverse datasets related to the atmosphere and other biological agents (e.g., plants, animals and human beings) and the wide variety of software to handle and analyse them. The demand of the scientific community for the automation of analysis processes, data cleaning, results sharing, reproducibility and the capacity to handle big data brings a scripting language such as R in the foreground of the academic universe. This paper presents the advantages and the benefits of the R language for biometeorological and other atmospheric sciences’ research, providing an overview of its typical workflow. Moreover, we briefly present a group of useful and popular packages for biometeorological research and a road map for further scientific collaboration on the R basis. This paper could be a short introductory guide to the world of the R language for biometeorologists"
+abstract ="R is an open-source programming language which gained a central place in the geosciences over the last two decades as the primary tool for research. Now, biometeorological research is driven by the diverse datasets related to the atmosphere and other biological agents (e.g., plants, animals and human beings) and the wide variety of software to handle and analyse them. The demand of the scientific community for the automation of analysis processes, data cleaning, results sharing, reproducibility and the capacity to handle big data brings a scripting language such as R in the foreground of the academic universe. This paper presents the advantages and the benefits of the R language for biometeorological and other atmospheric sciences’ research, providing an overview of its typical workflow. Moreover, we briefly present a group of useful and popular packages for biometeorological research and a road map for further scientific collaboration on the R basis. This paper could be a short introductory guide to the world of the R language for biometeorologists"
 abstract_short = ""
 authors = ["I Charalampopoulos"]
 date = "2020-06-28"
@@ -21,4 +21,5 @@ url = "https://www.mdpi.com/2073-4433/11/7/682"
 [header]
 image = "headers/Reproducibility-Workflow_R_logo.png"
 caption = "R biometerological research workflow"
+
 +++
