@@ -14,8 +14,8 @@ weight = 1
   interests = [
     "Bioclimatology",
     "Agrometeorology",
-    "R language",
-    "Spatial analysis"
+    "Big Environmental Data Analysis",
+    "R language"
   ]
 
 # List your qualifications (such as academic degrees).
