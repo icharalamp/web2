@@ -18,6 +18,7 @@ layout: page
 - [Software Carpentry](http://software-carpentry.org/blog/index.html)
 - [Henrik Bengtsson blog](https://www.jottr.org/)
 - [From the bottom of the heap. The musings of a geographer](https://www.fromthebottomoftheheap.net/)
+- [Thomas’ adventuRe posts](https://thomasadventure.blog/posts/)
 
 
 
